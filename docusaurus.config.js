@@ -39,14 +39,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/6Degrees/wiki.6d.com.sa/',
+            'https://github.com/6degrees/wiki.6d.com.sa/edit/main/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/6Degrees/wiki.6d.com.sa/',
+            'https://github.com/6degrees/wiki.6d.com.sa/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
