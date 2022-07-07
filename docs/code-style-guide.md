@@ -65,4 +65,6 @@ function subtract( number_1 , number_2 )
 
 use `async/await` instead of `.then().then().then().catch().finally()`
 
-## Light-mode / Dark-mode fav icons
+## Light-mode / Dark-mode Favicons
+
+## Website Performance/Speed Score
