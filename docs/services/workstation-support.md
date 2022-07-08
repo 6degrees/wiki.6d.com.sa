@@ -41,6 +41,10 @@ $ NETDOM JOIN %compname% /Domain:promoe.local /OU:"Promo/Headquarter/Computers",
 - create a shortcut to the shared folder on user desktop
 - disable cortana and remove search bar from task bar
 
+## Setup remote desktop
+
+Using company email, setup chrome remote desktop
+
 
 ## Respect Others Rights
 
