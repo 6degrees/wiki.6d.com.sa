@@ -68,3 +68,12 @@ use `async/await` instead of `.then().then().then().catch().finally()`
 ## Light-mode / Dark-mode Favicons
 
 ## Website Performance/Speed Score
+
+
+## Code optimization and readibilty
+
+### PHP
+
+#### Laravel
+
+- Laravel Pint
