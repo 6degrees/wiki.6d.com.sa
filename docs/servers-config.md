@@ -31,6 +31,7 @@ If absolutly necessary, below are the main setup steps and preferences for the s
 
 ### Servers Configuration Steps
 
+- install nano `yum install nano`, symlinmk to `pico` if not done automatically `ln -sv /usr/bin/nano /usr/bin/pico`
 - set SSH Keys
 - disable root password SSH login
 - change SSH port
