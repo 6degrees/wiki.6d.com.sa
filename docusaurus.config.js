@@ -83,11 +83,23 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Sections',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Standards',
+                to: '/docs/standards',
+              },
+              {
+                label: 'Services',
+                to: '/docs/services',
+              },
+              {
+                label: 'Human Resources',
+                to: '/docs/hr',
+              },
+              {
+                label: 'Tools',
+                to: '/docs/tools',
               },
             ],
           },
@@ -115,12 +127,16 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/6Degrees/',
+              },
+              {
+                label: 'Linked In',
+                href: 'https://www.linkedin.com/company/6degz/',
               },
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 6 Degrees Technologies Est. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 6 Degrees Technologies Est. <br /> Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
