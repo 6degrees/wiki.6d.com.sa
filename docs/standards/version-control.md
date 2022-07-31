@@ -26,11 +26,11 @@ Repos names should follow one of the below 3 naming conventions
    flask => flask framework for python web server
    hex_converter => project name
    service => suffix, as this repo is for a microservice.  
-    <br>
+    <br />
 2. `url_of_website`
    **ex.** www.6degrees.com.sa
    this repo will contain the source code, and a GitHub action that will auto deploy into `gh-pages` branch.
-   <br>
+   <br />
 3. `package_name`
    **ex.** swarmapp-api
    a simple name for an npm package.
@@ -39,13 +39,13 @@ Repos names should follow one of the below 3 naming conventions
 
 1. **Title**
    Same as repo name, no need to explain.
-   <br>
+   <br />
 2. **Url**
    if the repo is for a website, or has a live demo, or a page describing it, the url property should be populated
-   <br>
+   <br />
 3. **Description**
    Breif description of the content of the repo.
-   <br>
+   <br />
 4. **`readme.md` file**
    Readme file should always be populated with a revised meaningful title, a longer description, license of choice, credits given to owners of source code utilized in the repo, screenshot of the project outpout if possible.
 
