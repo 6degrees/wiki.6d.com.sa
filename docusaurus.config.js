@@ -87,19 +87,19 @@ const config = {
             items: [
               {
                 label: 'Standards',
-                to: '/docs/standards',
+                to: '/docs/category/standards',
               },
               {
                 label: 'Services',
-                to: '/docs/services',
+                to: '/docs/category/services',
               },
               {
                 label: 'Human Resources',
-                to: '/docs/hr',
+                to: '/docs/category/hr',
               },
               {
                 label: 'Tools',
-                to: '/docs/tools',
+                to: '/docs/category/tools',
               },
             ],
           },
