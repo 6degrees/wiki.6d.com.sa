@@ -9,3 +9,7 @@ If your goal is to show up as a first result on Google, and you are fine with ha
 ## Analysis Report
 
 ## Performance Enhancement
+
+## Micro-data (Schema)
+
+Always add a schema to the pages, use [technicalseo: schema markup generator](https://technicalseo.com/tools/schema-markup-generator/) to create the structure and browse around the options.
