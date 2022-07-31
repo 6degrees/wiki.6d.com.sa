@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
-# Code Style Guide
+# Code Style
 
 Here, with this guide, we set the basis for our developers coding style.  
 Please read carefully and adhere to the principles below.

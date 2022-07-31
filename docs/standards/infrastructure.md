@@ -1,8 +1,8 @@
 ---
-sidebar_position: 5
+sidebar_position: 1
 ---
 
-# Servers Config
+# Infrastructure
 
 ## Serverless Setup Maximization
 
