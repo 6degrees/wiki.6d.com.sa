@@ -28,6 +28,13 @@ At **6 Degrees**, we put great emphasis on leveraging your skills to the optimum
 - [Coursera: Google UX Design Professional Certificate](https://www.coursera.org/professional-certificates/google-ux-design)
 - [Coursera: IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 
+
+### Under evaluation
+
+The below courses are still under evaluation of our team:
+
+- [Coursera: Continuous Delivery & DevOps](https://www.coursera.org/learn/uva-darden-continous-delivery-devops)
+
 ## Other Questions ?
 
 For any questions, you may reach your immediate team leader or HR at any time.  
