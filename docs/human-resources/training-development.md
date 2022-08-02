@@ -34,6 +34,7 @@ At **6 Degrees**, we put great emphasis on leveraging your skills to the optimum
 The below courses are still under evaluation of our team:
 
 - [Coursera: Continuous Delivery & DevOps](https://www.coursera.org/learn/uva-darden-continous-delivery-devops)
+- [Saudi Digital Academy: RISE Program](https://sda.edu.sa/rise)
 
 ## Other Questions ?
 
