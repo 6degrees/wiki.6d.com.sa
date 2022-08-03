@@ -36,7 +36,7 @@ Need to follow these steps in your repo
         # Install and build NuxtJs website
         - name: Build NuxtJS website
           env:
-            BASE_URL: "http://www.promoe.com.sa/" # set your base URL properly for links to work
+            BASE_URL: "https://www.promoe.com.sa/" # set your base URL properly for links to work
           run: |
             npm install 
             npm run generate

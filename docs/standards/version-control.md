@@ -28,7 +28,7 @@ Repos names should follow one of the below 3 naming conventions
    service => suffix, as this repo is for a microservice.  
     <br />
 2. `url_of_website`
-   **ex.** www.6degrees.com.sa
+   **ex.** `www.6degrees.com.sa`
    this repo will contain the source code, and a GitHub action that will auto deploy into `gh-pages` branch.
    <br />
 3. `package_name`
