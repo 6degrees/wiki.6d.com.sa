@@ -57,6 +57,6 @@ In order to ensure that we continue to offer the best possible experience and th
 In case of any questions or comments you can reach us via sales office, email, chat, and social media or through our website or emails.
 
 ## Links to Other Websites
-
+                            
 Our website and mobile apps may contains links to third party sites, which may be subject to separate privacy policies. These sites are not under our control, and we are not responsible for their own privacy policies.
 
