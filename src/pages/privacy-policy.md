@@ -1,5 +1,5 @@
 ---
-title: Privcay Statement
+title: Privcay Policy
 ---
 
 # Privcay Statement
