@@ -19,5 +19,8 @@ This will hugely impact page load time.
 
 Use `<img load="lazy" ...` to lazy load images that are off-screen to increase speed of initial page load. Images that are off-screen will be loaded on scroll. You can apply the same concept with components, iframes, and resources as necessary.
 
+## Google Lighthouse
+
+Use chrome lighthouse developer tab for more insight on how to optimize for best practice, performance, seo or accessibility. Learning never ends.
 
 ## More for later
