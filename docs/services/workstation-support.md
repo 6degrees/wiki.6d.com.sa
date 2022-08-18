@@ -30,6 +30,13 @@ $ SET /P org=[promptString]
 $ NETDOM JOIN %compname% /Domain:promoe.local /OU:"Promo/Headquarter/Computers",DC=promoe,DC=local /UserD:DOMAIN\user /PasswordD:password /Reboot:15 /verbose
 ```
 
+### Mac Devices Domain Join
+
+to enroll a Mac in Active directoy, do the following:
+1- Set a static ip.
+
+Source: [pluralsight.com](https://www.pluralsight.com/blog/tutorials/join-mac-to-windows-domain)
+
 ## Initial Settings
 
 - show all desktop icons
