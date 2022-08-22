@@ -41,7 +41,7 @@ Whenever is possible, implement soft delete on the models, meaning, records are 
 
 ## images
 
-Preferrably, all images shall be in `webp` format, the benifits in terms of page load time are huge while disadvantages is sacrificing a little Mac Users (out of date Safaris)
+Preferably, all images shall be in `webp` format or `svg` where applicable, the benefits in terms of page load time are huge, while the disadvantage of the `webp` format is sacrificing a few Mac Users (out of date Safaris).
 
 ## Unnecessary new lines and spaces
 
